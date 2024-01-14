@@ -27,6 +27,6 @@ Global Energy Consumption Analysis (ExData Plotting1): Examining worldwide energ
 📫 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/yyabroudi/)
-Email: [yazeedyabroudi@student.ie.edu](mailto:yazeedyabroudi@student.ie.edu)
+[yazeedyabroudi@student.ie.edu](mailto:yazeedyabroudi@student.ie.edu)
 
 I am always eager to collaborate and exchange ideas. Let's explore the limitless possibilities in data analytics and business intelligence together!
